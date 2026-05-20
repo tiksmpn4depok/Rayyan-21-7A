@@ -1,0 +1,44 @@
+body{
+    /* background-color: bisque */
+    background-image: url(toshi.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    background-size: 35ch;
+}
+
+.p1 {
+    text-align: left;
+    text-indent: 2em;
+    text-decoration: underline wavy red;
+}
+
+.p2{
+    text-align: center;
+    text-indent: 2em;
+    text-decoration: underline wavy red;
+}
+
+.p3{
+    text-align: right;
+    text-indent: 2em;
+    text-decoration: underline wavy red;
+}
+
+.p4{
+    text-align: justify;
+    text-indent: 2em;
+    
+}
+
+h1{
+    text-align: center;
+}
+
+.hohj{
+     text-decoration: underline wavy red;
+}
+
+.uhah{
+    color: rgb(100, 121, 237);
+    text-transform: uppercase;
+}
